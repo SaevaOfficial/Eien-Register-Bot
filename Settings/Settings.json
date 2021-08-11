@@ -1,0 +1,45 @@
+{
+    "BotSettings": {
+        "token": "ODc1MDQzMjQxMDM1MTk4NTE0.YRPxhg.DzD7A3j8h7TErnGikCcPj8CM2EI",
+        "owner": "323095557470158855",
+        "prefix": ".",
+        "botStatus": "A L A S K A ❤️",
+        "botVoiceChannelID": "875050361340194857"
+    },
+    "Roles": {
+        "BoyRole1": "874941036764475401",
+        "BoyRole2": "874941036764475400",
+        "GirlRole1": "874941036772880416",
+        "GirlRole2": "874941036772880415",
+        "Unregister": "874941036764475398",
+        "Registerer": "874941036819021860",
+        "TagRole": "875048969019985991",
+        "Suspicious": "874941036789628935",
+        "Jail": "874941036789628933"
+    },
+        "Colors": {
+            "Red": "ff0000",
+            "Magenta": "660099",
+            "Black": "000000",
+            "Gold": "ffd700",
+            "Pink": "ffcbdb",
+            "Green": "66ff00",
+            "Yellow": "ffff00"
+    },
+        "ServerSettings": {
+            "ServerName": "✰ Alaska",
+            "ServerID": "874941036701573120",
+            "Tag": "✰",
+            "UnTag": "✰"
+    },
+        "Channels": {
+            "RegisterChat": "874941037200703528",
+            "TagLog": "875048036672339968",
+            "Rules": "874941037200703536",
+            "GeneralChat": "874941039016828928"
+        },
+        "Welcome": {
+            "WelcomeChat": "874941037200703528",
+            "WelcomeName": "✰ İsim | Yaş"
+        }
+}
