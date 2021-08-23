@@ -1,7 +1,7 @@
 {
-  "name": "alaska",
+  "name": "Eienwq",
   "version": "1.2.7",
-  "description": "Alaska Register Bot",
+  "description": "Eienwq Register Bot",
   "main": "eienwq.js",
   "scripts": {
     "start": "node eienwq.js"
@@ -21,8 +21,7 @@
   },
   "license": "MIT",
   "keywords": [
-    "V12 Bot",
-    "UtkuJS",
+    "Eienwq",
     "Register Bot"
   ]
 }
