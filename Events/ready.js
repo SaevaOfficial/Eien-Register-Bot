@@ -7,10 +7,10 @@ var prefix = Settings.BotSettings.prefix;
 
 module.exports = client => {
   console.log(
-    `[Eienwq Public Pack] BOT: Aktif, Komutlar yüklendi!`
+    `[Eienwq] BOT: Aktif, Komutlar yüklendi!`
   );
   console.log(
-    `[Eienwq Public Pack] BOT: ${
+    `[Eienwq] BOT: ${
       client.user.username
     } ismi ile giriş yapıldı!`
   );
