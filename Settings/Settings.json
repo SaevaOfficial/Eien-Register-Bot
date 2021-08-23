@@ -1,22 +1,24 @@
 {
     "BotSettings": {
-        "token": "ODc1MDQzMjQxMDM1MTk4NTE0.YRPxhg.DzD7A3j8h7TErnGikCcPj8CM2EI",
-        "owner": "323095557470158855",
+        "token": "TOKEN",
+        "owner": "OWNER ID",
         "prefix": ".",
-        "botStatus": "A L A S K A ❤️",
-        "botVoiceChannelID": "875050361340194857"
+        "botStatus": "E I E N W Q ❤️",
+        "botVoiceChannelID": "SES KANAL ID"
     },
     "Roles": {
-        "BoyRole1": "874941036764475401",
-        "BoyRole2": "874941036764475400",
-        "GirlRole1": "874941036772880416",
-        "GirlRole2": "874941036772880415",
-        "Unregister": "874941036764475398",
-        "Registerer": "874941036819021860",
-        "TagRole": "875048969019985991",
-        "Suspicious": "874941036789628935",
-        "Jail": "874941036789628933"
+        "BoyRole1": "ERKEK ROL 1",
+        "BoyRole2": "ERKEK ROL 2",
+        "GirlRole1": "KIZ ROL 1",
+        "GirlRole2": "KIZ ROL 2",
+        "Unregister": "KAYITSIZ ROL",
+        "Registerer": "KAYITCI ROL",
+        "TagRole": "TAGLI ROL",
+        "Suspicious": "ŞÜPHELİ ROL",
+        "Jail": "JAIL ROL"
     },
+    
+    //ELLEME
         "Colors": {
             "Red": "ff0000",
             "Magenta": "660099",
@@ -26,20 +28,22 @@
             "Green": "66ff00",
             "Yellow": "ffff00"
     },
+    //ELLEME
+    
         "ServerSettings": {
-            "ServerName": "✰ Alaska",
-            "ServerID": "874941036701573120",
-            "Tag": "✰",
-            "UnTag": "✰"
+            "ServerName": "SUNUCU ISMI",
+            "ServerID": "SUNUCU ID",
+            "Tag": "TAG",
+            "UnTag": "TAG"
     },
         "Channels": {
-            "RegisterChat": "874941037200703528",
-            "TagLog": "875048036672339968",
-            "Rules": "874941037200703536",
-            "GeneralChat": "874941039016828928"
+            "RegisterChat": "KAYIT CHAT",
+            "TagLog": "TAG LOG",
+            "Rules": "KURALLAR",
+            "GeneralChat": "GENEL CHAT"
         },
         "Welcome": {
-            "WelcomeChat": "874941037200703528",
-            "WelcomeName": "✰ İsim | Yaş"
+            "WelcomeChat": "KAYIT CHAT",
+            "WelcomeName": "TAG İsim | Yaş"
         }
 }
