@@ -27,7 +27,7 @@ fs.readdir('./Commands/', (err, files) => {
     log(`${files.length} Adet Komut Yüklenecek.`);
     files.forEach(f => {
         let props = require(`./Commands/${f}`);
-        log(`[Eienwq Public Pack] Yüklenen komut: ${props.help.name}.`);
+        log(`[Eienwq] Yüklenen komut: ${props.help.name}.`);
         client.commands.set(props.help.name, props);
         props.conf.aliases.forEach(alias => {
             client.aliases.set(alias, props.help.name);
